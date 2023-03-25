@@ -43,7 +43,7 @@ Tools Used :
                          |
                          ->index3.html
                          |
-                         ->index4.html
+                         ->index1.html
                          
 ## => now open terminal and go to model_UI directory
       
