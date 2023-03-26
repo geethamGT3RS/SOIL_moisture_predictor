@@ -55,6 +55,6 @@ Tools Used :
 ## => now you have access to User Interface   
     
       if this is not working open moisture_predictor.html file
+      press only predict button to predict.
 
-      
                          
